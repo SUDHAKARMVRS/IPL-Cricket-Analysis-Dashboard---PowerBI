@@ -12,13 +12,13 @@ High level insights
 
 ## 📈 Key Analysis Performed
 
-# Power BI Dashboard
+## Power BI Dashboard
 Total Sixes & Fours
 Top Season performers
 Team performance
 Slicers (Season)
 
-# 💡 Insights (Examples)
+## 💡 Insights (Examples)
 - Champions(Winner)
 - Runnerup(Finalist)
 - Purple Cap Holder
@@ -36,6 +36,6 @@ Translating data into insights
 <img width="1920" height="1008" alt="Screenshot 2026-01-12 082634" src="https://github.com/user-attachments/assets/9ad2e5ad-068b-44b2-adf9-e6ad195846b7" />
 <img width="1920" height="1008" alt="Screenshot 2026-01-12 082608" src="https://github.com/user-attachments/assets/0019a971-fa43-4821-ba57-19974f587dc3" />
 
-# 👤 Author
+## 👤 Author
 Sudhakar M.
 📫 [LinkedIn] 📧 sudhakar.mvrs@gmail.com
