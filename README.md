@@ -38,6 +38,6 @@ Used for:
 <img width="1920" height="1008" alt="Screenshot 2026-01-12 082608" src="https://github.com/user-attachments/assets/0019a971-fa43-4821-ba57-19974f587dc3" />
 
 ## 👤 Author
-Sudhakar M.
-📫 (https://www.linkedin.com/in/sudhakar-m-657ba787/) 
-📧 sudhakar.mvrs@gmail.com
+Sudhakar M
+.📫 (https://www.linkedin.com/in/sudhakar-m-657ba787/) 
+.📧 sudhakar.mvrs@gmail.com
