@@ -39,5 +39,5 @@ Used for:
 
 ## 👤 Author
 Sudhakar M
-.📫 (https://www.linkedin.com/in/sudhakar-m-657ba787/) 
-.📧 sudhakar.mvrs@gmail.com
+-📫 (https://www.linkedin.com/in/sudhakar-m-657ba787/) 
+-📧 sudhakar.mvrs@gmail.com
